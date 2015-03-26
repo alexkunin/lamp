@@ -1,0 +1,2 @@
+#docker run -it --rm -p 8081:80 --hostname test.alexkunin.ddns.net -v /c/Users/Alex/Documents/Projects/lamp/:/var/www/html alexkunin/lamp
+docker run -it --rm -p 8081:80 --hostname test.alexkunin.ddns.net alexkunin/lamp
